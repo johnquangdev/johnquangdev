@@ -38,37 +38,11 @@ I'm a **Backend Golang Developer** passionate about building robust, scalable sy
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 💼 Featured Projects
-
-### 🚀 Guscent
-**Outsource Project with Freelance Team** | *Oct 2025 - Present*
-
-Working as a Backend Developer on an outsource project, contributing to backend development and API design.
-
-**Responsibilities:**
-- JWT-based authentication & authorization
-- RESTful API development
-- Database design and optimization
-
-**Tech:** Golang, Echo, PostgreSQL, Redis, Docker
-
-## 🏆 Achievements
-
-- 🥉 **Encouragement Award** - 12th National Vocational Skills Competition 2021 (Network System Administration)
-
 ## 📫 Connect With Me
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.quangdev@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johnquangdev)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=johnquangdev&color=blueviolet&style=for-the-badge)
   
 </div>
